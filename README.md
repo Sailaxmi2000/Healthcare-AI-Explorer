@@ -31,7 +31,9 @@ source venv/bin/activate'
 ### 4.Set Up API Keys
 
 Create a .env file in the project root and add:
+
 GEMINI_API_KEY=your_google_gemini_api_key
+
 OPENAI_API_KEY=your_openai_api_key
 
 ## 5. Run the Application
@@ -60,8 +62,11 @@ pip install -r requirements.txt
 
 ## How It Works
 1️⃣ Upload a CSV file – The data is stored in an SQLite database.
+
 2️⃣ Choose an AI Model – Select between Gemini Pro and GPT-4.
+
 3️⃣ Ask a question – Enter a natural language question related to your data.
+
 4️⃣ Get SQL Query & Results – The AI generates an SQL query, executes it, and displays the results.
 
 

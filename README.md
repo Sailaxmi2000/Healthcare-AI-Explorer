@@ -14,10 +14,11 @@ Healthcare AI Explorer is a **Streamlit-based** web application that enables use
 ```sh
 git clone https://github.com/Sailaxmi2000/Healthcare-AI-Explorer.git
 cd Healthcare-AI-Explorer
-### 2. Create a Virtual Environment  
+```sh
 
+### 2. Create a Virtual Environment  
 python -m venv venv
-# Activate the virtual environment
+Activate the virtual environment
 ###3.Install Dependencies
 
 ## Windows

@@ -39,6 +39,7 @@ streamlit run app.py
 
 ## Project Structure
 Healthcare-AI-Explorer/
+
 │-- app.py              # Main application  
 │-- requirements.txt    # Dependencies  
 │-- .env                # API keys (ignored in Git)  

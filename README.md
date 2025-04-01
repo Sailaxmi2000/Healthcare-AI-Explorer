@@ -16,10 +16,10 @@ git clone https://github.com/Sailaxmi2000/Healthcare-AI-Explorer.git
 cd Healthcare-AI-Explorer
 
 
-###2.Create a Virtual Environment 
+##2.Create a Virtual Environment 
 python -m venv venv
 Activate the virtual environment
-###3.Install Dependencies
+##3.Install Dependencies
 
 ## Windows
 venv\Scripts\activate
@@ -33,10 +33,10 @@ Create a .env file in the project root and add:
 GEMINI_API_KEY=your_google_gemini_api_key
 OPENAI_API_KEY=your_openai_api_key
 
-###5. Run the Application
+##5. Run the Application
 streamlit run app.py
 
-###Project Structure
+##Project Structure
 Healthcare-AI-Explorer/
 │-- app.py              # Main application  
 │-- requirements.txt    # Dependencies  
@@ -53,10 +53,10 @@ OpenAI API
 Google Generative AI API
 Python Dotenv
 
-###Install all dependencies with:
+##Install all dependencies with:
 pip install -r requirements.txt
 
-###How It Works
+##How It Works
 1️⃣ Upload a CSV file – The data is stored in an SQLite database.
 2️⃣ Choose an AI Model – Select between Gemini Pro and GPT-4.
 3️⃣ Ask a question – Enter a natural language question related to your data.

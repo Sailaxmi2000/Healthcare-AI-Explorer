@@ -16,11 +16,11 @@ git clone https://github.com/Sailaxmi2000/Healthcare-AI-Explorer.git
 cd Healthcare-AI-Explorer
 
 
-###** 2.** Create a Virtual Environment **** 
+###2.Create a Virtual Environment 
 python -m venv venv
 Activate the virtual environment
-###**3.Install Dependencies
-**
+###3.Install Dependencies
+
 ## Windows
 venv\Scripts\activate
 
